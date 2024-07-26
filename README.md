@@ -27,11 +27,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshroy28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshroy28" /></a></p><br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshroy28" alt="harshroy28" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshroy28&theme=tokyonight" alt="harshroy28" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshroy28&show_icons=true&locale=en&layout=compact" alt="harshroy28" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshroy28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="harshroy28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshroy28&show_icons=true&locale=en" alt="harshroy28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshroy28&show_icons=true&locale=en&theme=tokyonight" alt="harshroy28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshroy28&" alt="harshroy28" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshroy28&theme=tokyonight" alt="harshroy28" /></p>
 <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
