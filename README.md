@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/royharsh_53550" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="royharsh_53550" height="40" width="40" /></a>
-<a href="www.linkedin.com/in/harsh-kumar-7aba3223b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="harsh-kumar-7aba3223b" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/harsh-kumar-7aba3223b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/harsh-kumar-7aba3223b" height="40" width="40" /></a>
 <a href="https://instagram.com/roy_harsh_kumar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="roy_harsh_kumar" height="40" width="40" /></a>
 
 </p>
